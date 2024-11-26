@@ -1,0 +1,10 @@
+datasets
+torch
+torchaudio
+librosa
+numpy
+matplotlib
+transformers
+scikit-learn
+pandas
+seaborn
