@@ -5,6 +5,11 @@ test script for visualizing dataset with HUBERT
 
 This script processes multilingual audio samples to extract syllable-level embeddings using a pre-trained Wav2Vec2 model. It visualizes these embeddings in a 2D space using t-SNE.
 
+# Sample output
+![sample_output](https://github.com/user-attachments/assets/0b85b6d8-4e82-42af-b418-91beae4ed074)
+
+
+
 ### Features
 - Loads and processes audio samples from the Common Voice dataset.
 - Segments audio into syllables using short-time energy.
